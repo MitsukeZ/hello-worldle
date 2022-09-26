@@ -1,0 +1,73 @@
+{
+    "helloWorld": [
+        {
+            "lang": "Python",
+            "code": "def main():\n\tprint(\"Hello World!\")"
+        },
+
+        {
+            "lang": "Java",
+            "code": "public class Hello\n{\n\tpublic static void main(String[] args)\n\t{\n\t\tSystem.out.println(\"Hello World!\");\n\t}\n}"
+        },
+
+        {
+            "lang": "C",
+            "code": "#include <stdio.h>\n\nvoid main()\n{\n\tprintf(\"Hello World\\n\");\n}"
+        },
+
+        {
+            "lang": "C++",
+            "code": "#include <iostream>\n\nvoid main()\n{\n\tstd::cout << \"Hello World !\";\n}"
+        },
+
+        {
+            "lang": "JavaScript",
+            "code": "console.log(\"Hello World!\");"
+        },
+
+        {
+            "lang": "PHP",
+            "code": "function hello()\n{\n\techo \"Hello World!\";\n}"
+        },
+
+        {
+            "lang": "HTML",
+            "code": "<!DOCTYPE ????>\n<????>\n\t<body>\n\t\t<p>Hello World!</p>\n\t</body>\n</????>"
+        },
+
+        {
+            "lang": "Rust",
+            "code": "fn main()\n{\n\tprintln!(\"Hello World!\");\n}"
+        },
+
+        {
+            "lang": "Go",
+            "code": "package main\nimport \"fmt\"\n\nfunc main()\n{\n\tfmt.Println(\"Hello World!\")\n}"
+        },
+
+        {
+            "lang": "Ruby",
+            "code": "def main()\n\tputs \"Hello World!\"\nend"
+        },
+
+        {
+            "lang": "Haskell",
+            "code": "main :: IO ()\nmain = putStrLn \"Hello World!\""
+        },
+
+        {
+            "lang": "Bash",
+            "code": "#!/bin/????\necho \"Hello World!\""
+        },
+
+        {
+            "lang": "Batch",
+            "code": "@echo off\necho Hello World!"
+        },
+        
+        {
+            "lang": "C#",
+            "code": "Console.WriteLine(\"Hello World!\""
+        }
+    ]
+}
